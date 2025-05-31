@@ -1,0 +1,589 @@
+serial_number,website_name,url,title,date,content
+1,CNA,https://www.channelnewsasia.com/asia/thailand-phuket-resort-island-garbage-rubbish-crisis-landfill-4861746,Thai resort island Phuket grapples with growing garbage crisis,,
+2,CNA,https://www.channelnewsasia.com/business/toyota-unit-hino-motors-reaches-16-billion-us-diesel-emissions-settlement-4860851,Toyota unit Hino Motors reaches $1.6 billion US diesel emissions settlement,,
+3,CNA,https://www.channelnewsasia.com/world/los-angeles-california-fires-pink-flame-retardants-used-what-do-we-know-4856106,Pink flame retardants are being used to slow California fires. What do we know about them?,,
+4,CNA,https://www.channelnewsasia.com/commentary/la-fires-los-angeles-hollywood-pollution-climate-4853926,Commentary: Hollywood fires will cause harm long after they burn out,14 Jan 2025 06:00AM,
+5,CNA,https://www.channelnewsasia.com/asia/malaysia-attract-china-tourists-young-travellers-missed-target-4842426,Malaysia focuses on attracting young Chinese tourists after missing 2024 target,10 Jan 2025 09:41AM,
+6,CNA,https://www.channelnewsasia.com/sustainability/vietnam-hanoi-world-most-polluted-city-ev-health-hazard-smog-respiratory-problems-4836556,"Hanoi declared world's most polluted city, authorities seek action",,
+7,CNA,https://www.channelnewsasia.com/today/big-read/online-shopping-convenience-addiction-wastage-4826366,"The convenience and the curse of online shopping: How e-commerce is fuelling addiction, wastage","27 Dec 2024 09:30PM
+(Updated: 06 Jan 2025 05:47PM)",
+8,CNA,https://www.channelnewsasia.com/advertorial/5-ways-achieve-healthier-scalp-and-luscious-hair-new-year-4805111,5 ways to achieve a healthier scalp and luscious hair in the new year,"23 Dec 2024 10:39AM
+(Updated: 23 Dec 2024 10:54AM)",
+9,CNA,https://www.channelnewsasia.com/asia/india-tightens-curbs-air-pollution-turns-severe-4811166,India tightens curbs as air pollution turns 'severe',,
+10,CNA,https://www.channelnewsasia.com/asia/south-korea-jeju-island-dolphins-dying-overtourism-marine-pollution-4784146,"Dolphins around South Korea’s Jeju Island dying from overtourism, pollution, say experts",04 Dec 2024 02:37PM,
+11,CNA,https://www.channelnewsasia.com/sustainability/battle-over-curbing-plastic-output-jeopardises-un-treaty-hopes-4780321,Battle over curbing plastic output jeopardises UN treaty hopes,,
+12,CNA,https://www.channelnewsasia.com/asia/indonesia-regional-elections-pilkada-2024-prabowo-jokowi-megawati-pdip-jakarta-java-battlegrounds-4771221,"Arrest of governor, voter fatigue cloud Indonesia’s Nov 27 regional elections seen as test for President Prabowo","27 Nov 2024 06:00AM
+(Updated: 27 Nov 2024 01:54PM)",
+13,CNA,https://www.channelnewsasia.com/asia/indonesia-climate-change-prabowo-subianto-sustainable-energy-4771311,‘Too far from reality’: Prabowo has ambitious plans for a greener Indonesia but experts warn of challenges ahead,"26 Nov 2024 06:45PM
+(Updated: 27 Nov 2024 09:21AM)",
+14,CNA,https://www.channelnewsasia.com/sustainability/india-aims-stamp-out-farm-fires-satellite-images-scorched-earth-4764986,India aims to stamp out farm fires with satellite images of scorched earth,,
+15,CNA,https://www.channelnewsasia.com/asia/indonesia-regional-elections-jakarta-ridwan-kamil-pramono-anung-jokowi-anies-baswedan-pdip-4764326,"Jakarta governor race heats up as Jokowi, ex-presidential hopeful Anies throw weight behind different candidates","22 Nov 2024 03:23PM
+(Updated: 22 Nov 2024 05:55PM)",
+16,CNA,https://www.channelnewsasia.com/east-asia/china-airpocalypse-air-pollution-action-plan-life-expectancy-4758941,What happened to China's 'airpocalypse'?,"20 Nov 2024 02:12PM
+(Updated: 20 Nov 2024 02:44PM)",
+17,CNA,https://www.channelnewsasia.com/asia/indonesia-regional-elections-politics-prabowo-megawati-jokowi-pdip-4754011,"IN FOCUS: High stakes in Indonesia’s regional elections for Prabowo, Megawati amid power play",20 Nov 2024 06:00AM,
+18,CNA,https://www.channelnewsasia.com/world/africa-dr-congo-cop29-renewable-energy-solar-wind-hydro-green-funding-4756151,"Africa’s energy revolution remains elusive due to poor funding, inadequate infrastructure",19 Nov 2024 01:13PM,
+19,CNA,https://www.channelnewsasia.com/sustainability/toxic-smog-persists-over-indias-north-delhi-pollution-remains-severe-4756196,Toxic smog persists over India's north; Delhi pollution remains severe,,
+20,CNA,https://www.channelnewsasia.com/asia/india-delhi-pollution-surged-visibility-dropped-flights-may-be-affected-4745471,"Delhi's pollution turns 'severe' as temperatures, wind speeds drop",,
+21,CNA,https://www.channelnewsasia.com/asia/pakistan-limits-outdoor-activities-market-hours-curb-air-pollution-related-illness-4740731,"Pakistan limits outdoor activities, market hours to curb air pollution-related illness",,
+22,CNA,https://www.channelnewsasia.com/asia/lahore-air-pollution-hits-historic-high-forcing-school-closures-4738191,"Lahore air pollution hits historic high, forcing school closures",,
+23,CNA,https://www.channelnewsasia.com/style-beauty/oily-dehydrated-skin-4672216,Can your skin be oily and dehydrated at the same time? Here’s what you can do about it,"07 Nov 2024 07:25AM
+(Updated: 07 Nov 2024 08:57AM)",
+24,CNA,https://www.channelnewsasia.com/asia/india-delhi-air-pollution-severe-levels-stubble-burning-firecrackers-diwali-4724881,Air that looks almost opaque: Smog chokes Delhi residents as pollution hits severe levels,05 Nov 2024 04:58PM,
+25,CNA,https://www.channelnewsasia.com/entertainment/hillary-osullivan-piano-bhutan-royal-highland-festival-4684391,Singaporean teen who performed for Bhutan's king feels 'a deep responsibility' to use music to spread awareness of climate change,18 Oct 2024 07:37AM,
+26,CNA,https://www.channelnewsasia.com/asia/us-china-science-tech-treaty-impact-climate-health-geopolitics-security-4682471,A US-China science pact has expired after 45 years. How is the world poorer for it?,18 Oct 2024 06:00AM,
+27,CNA,https://www.channelnewsasia.com/today/big-read/nuclear-energy-perception-reality-safety-fear-4667916,Advancements in nuclear energy have made it safer but public fear remains stumbling block,"11 Oct 2024 09:30PM
+(Updated: 12 Oct 2024 10:13AM)",
+28,CNA,https://www.channelnewsasia.com/business/ebay-wins-dismissal-us-lawsuit-over-sale-harmful-products-4650086,EBay wins dismissal of US lawsuit over sale of harmful products,,
+29,CNA,https://www.channelnewsasia.com/business/indonesia-britain-sign-collaboration-agreement-critical-minerals-4615711,"Indonesia, Britain sign collaboration agreement on critical minerals",,
+30,CNA,https://www.channelnewsasia.com/asia/johor-foul-odour-toxic-chemical-pollution-onn-hafiz-ghazi-4597841,Johor foul odour: Chief minister vows ‘strict action’ against those behind toxic chemicals in river areas,,
+31,CNA,https://www.channelnewsasia.com/commentary/china-coal-consumption-peak-emissions-stockpile-waste-4591111,Commentary: You could power America with China’s wasted energy,"08 Sep 2024 06:00AM
+(Updated: 08 Sep 2024 06:09AM)",
+32,CNA,https://www.channelnewsasia.com/singapore/singapore-haze-research-centre-southeast-asia-predict-air-quality-4588111,Singapore to play bigger role in improving Southeast Asia’s ability to detect haze,05 Sep 2024 03:36PM,
+33,CNA,https://www.channelnewsasia.com/sustainability/burning-trash-major-plastic-pollution-source-study-4586441,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+34,CNA,https://www.channelnewsasia.com/business/musks-xai-operating-gas-turbines-without-permits-data-center-environmental-group-says-4572751,"Musk's xAI operating gas turbines without permits at data center, environmental group says",,
+35,CNA,https://www.channelnewsasia.com/today/ground-up/oat-milk-good-healthy-nutrition-diet-4634981,Is oat milk good for you? Here is what you are really getting out of it,"24 Aug 2024 08:00AM
+(Updated: 25 Sep 2024 05:16PM)",
+36,CNA,https://www.channelnewsasia.com/asia/malaysia-johor-strait-causeway-bridge-land-crossing-pollution-fishermen-4555956,Johor Strait fishermen bemoan poorer hauls; experts say reclamation and Causeway design could be factors,"24 Aug 2024 06:00AM
+(Updated: 24 Aug 2024 06:54PM)",
+37,CNA,https://www.channelnewsasia.com/business/copper-giant-codelco-invests-evs-cacti-part-green-makeover-4559036,"Copper giant Codelco invests in EVs, cacti as part of green makeover",,
+38,CNA,https://www.channelnewsasia.com/commentary/joss-paper-burning-hungry-ghost-festival-seventh-month-smell-ash-health-4547791,Commentary: Something needs to change about our joss paper burning habits,"17 Aug 2024 06:00AM
+(Updated: 17 Aug 2024 07:47AM)",
+39,CNA,https://www.channelnewsasia.com/commentary/heatwave-global-warming-hot-global-records-el-nino-4548076,Commentary: Earth has just ended a 13-month streak of record heat - here’s what to expect next,"16 Aug 2024 06:00AM
+(Updated: 16 Aug 2024 06:16AM)",
+40,CNA,https://www.channelnewsasia.com/asia/indonesia-nusantara-kalimantan-new-capital-inclusive-elites-jakarta-4537656,A city for just the elites? Why some locals are feeling left out of Indonesia's new capital Nusantara,"13 Aug 2024 06:44PM
+(Updated: 14 Aug 2024 11:00AM)",
+41,CNA,https://www.channelnewsasia.com/business/musk-embraces-trump-and-scorns-subsidies-tesla-still-lobbies-us-benefits-4541886,Musk embraces Trump and scorns subsidies. But Tesla still lobbies for US benefits,,
+42,CNA,https://www.channelnewsasia.com/commentary/china-climate-change-diplomacy-cop29-tech-innovation-electricity-transport-steel-emissions-4511241,"Commentary: China is still the world’s biggest emitter, but also an emerging force in climate diplomacy",02 Aug 2024 06:00AM,
+43,CNA,https://www.channelnewsasia.com/sustainability/thailand-carbon-tax-emissions-trading-scheme-asean-region-4507116,‘No brainer’: Thailand to become second in Southeast Asia to tax carbon emissions,"30 Jul 2024 12:59PM
+(Updated: 30 Jul 2024 01:42PM)",
+44,CNA,https://www.channelnewsasia.com/world/new-york-heat-extreme-weather-climate-change-poor-lower-income-warmer-temperature-4511116,‘The walls are sweating’: Campaigners seek laws to help vulnerable New Yorkers cope with extreme heat,"29 Jul 2024 02:54PM
+(Updated: 29 Jul 2024 03:33PM)",
+45,CNA,https://www.channelnewsasia.com/singapore/cna-explains-hit-and-run-sea-and-role-alleged-dark-ship-4506391,CNA Explains: What we know about a hit-and-run off Pedra Branca involving an alleged ‘dark ship’,"29 Jul 2024 06:00AM
+(Updated: 30 Jul 2024 05:37PM)",
+46,CNA,https://www.channelnewsasia.com/wellness/stress-chronic-illness-disease-4468396,How stress can mask the symptoms of chronic disease,,
+47,CNA,https://www.channelnewsasia.com/podcasts/indonesia-moving-new-capital-jakarta-nusantara-cna-correspondent-4482301,CNA Correspondent Podcast: Futuristic utopia or white elephant? Countdown to Indonesia's new capital hosting Independence Day,,
+48,CNA,https://www.channelnewsasia.com/business/us-indonesia-critical-mineral-partnership-4480986,US approaches Indonesia for multinational critical mineral partnership,,
+49,CNA,https://www.channelnewsasia.com/world/electric-vehicles-ev-tanzania-africa-china-import-production-4476266,Tanzania welcomes Chinese EV imports and production amid drive to transit from fossil fuels,15 Jul 2024 11:59AM,
+50,CNA,https://www.channelnewsasia.com/singapore/nea-steps-carbon-emissions-requirements-foreign-vehicles-motorcycles-entering-singapore-4448276,"Foreign ageing motorbikes to be barred entry, commercial diesel vehicles will face stricter emissions limit",,
+51,CNA,https://www.channelnewsasia.com/asia/indonesia-diaspora-visa-overseas-skilled-talents-citizenship-4410176,Indonesia aims to lure former citizens to return amid a talent shortage. Will it succeed?,22 Jun 2024 06:00AM,
+52,CNA,https://www.channelnewsasia.com/world/migratory-birds-light-pollution-billions-killed-us-cities-lights-out-campaign-4423806,What are US cities doing to reduce the deaths of billions of birds from light pollution?,20 Jun 2024 05:04PM,
+53,CNA,https://www.channelnewsasia.com/singapore/oil-spill-compensation-owner-marine-honour-bunker-vessel-4423686,Oil spill clean-up: Singapore to seek compensation from owner of stationary ship that was hit by another vessel,,
+54,CNA,https://www.channelnewsasia.com/sport/paris-olympics-2024-games-heatwave-heat-risks-climate-change-4418666,New report warns of heat danger at Paris Olympics,,
+55,CNA,https://www.channelnewsasia.com/singapore/oil-spill-sentosa-residents-businesses-affected-smell-4412951,'Difficult to breathe': Sentosa residents unwell from effects of oil spill; yacht companies predict losses,"15 Jun 2024 09:11PM
+(Updated: 15 Jun 2024 10:10PM)",
+56,CNA,https://www.channelnewsasia.com/asia/air-pollution-fine-particulate-matter-pm25-premature-deaths-ntu-study-4401746,Asia had highest number of premature deaths in the world for decades due to air pollution: NTU study,11 Jun 2024 05:09PM,
+57,CNA,https://www.channelnewsasia.com/sport/australian-athletes-have-final-say-seine-swimming-4388196,Australian athletes to have final say on Seine swimming,,
+58,CNA,https://www.channelnewsasia.com/advertorial/world-environment-day-forging-path-sustainable-and-resilient-healthcare-systems-4359866,World Environment Day: Forging a path to sustainable and resilient healthcare systems,05 Jun 2024 10:08AM,
+59,CNA,https://www.channelnewsasia.com/commentary/india-hot-weather-heatstroke-deaths-unlivable-election-modi-bjp-4376916,Commentary: India’s scorching heat is making it unlivable,02 Jun 2024 06:00AM,
+60,CNA,https://www.channelnewsasia.com/world/iceland-volcano-spews-lava-and-smoke-second-day-4373891,Iceland volcano spews lava and smoke for a second day,,
+61,CNA,https://www.channelnewsasia.com/commentary/thailand-baht-pm-srettha-economic-stimulus-digital-wallet-4368176,Commentary: Good reasons for Thailand’s economic stimulus,29 May 2024 06:00AM,
+62,CNA,https://www.channelnewsasia.com/sustainability/escalating-emissions-how-red-sea-disruptions-are-driving-carbon-emissions-4368021,Escalating emissions: How Red Sea disruptions are driving up carbon emissions,,
+63,CNA,https://www.channelnewsasia.com/commentary/us-biden-china-tariff-ev-global-development-clean-energy-4366121,Commentary: What do Biden’s big new China tariffs mean for the rest of the world?,28 May 2024 06:00AM,
+64,CNA,https://www.channelnewsasia.com/commentary/heatwave-deadly-old-ageing-population-risk-4360991,Commentary: Heatwaves can be deadly for older adults,26 May 2024 06:00AM,
+65,CNA,https://www.channelnewsasia.com/business/us-race-neutral-lung-assessments-have-profound-effects-study-finds-4347571,"US race-neutral lung assessments to have profound effects, study finds",,
+66,CNA,https://www.channelnewsasia.com/singapore/scdf-officer-dies-after-fighting-fire-vessel-4340451,SCDF officer dies after fighting fire on China-flagged tanker anchored in Singapore waters,,
+67,CNA,https://www.channelnewsasia.com/asia/new-master-plan-save-indonesias-jakarta-urban-woes-jokowis-son-gibran-touted-helm-efforts-4310846,"New master plan to save Indonesia’s Jakarta from urban woes, with Jokowi’s son Gibran touted to helm efforts","05 May 2024 06:00AM
+(Updated: 05 May 2024 08:26AM)",
+68,CNA,https://www.channelnewsasia.com/commentary/mount-everest-climb-trek-tourism-waste-recycle-plastic-sustainability-4311186,Commentary: Climbers have turned Mount Everest into a high-altitude garbage dump,05 May 2024 06:00AM,
+69,CNA,https://www.channelnewsasia.com/asia/hot-weather-asia-heatwave-high-temperatures-climate-change-cna-explains-4300206,CNA Explains: What can we do about the extreme heat across Asia - including in Singapore?,"29 Apr 2024 05:41PM
+(Updated: 29 Apr 2024 06:01PM)",
+70,CNA,https://www.channelnewsasia.com/commentary/india-election-narendra-modi-heatwave-voting-4285756,Commentary: How can India hold elections when it’s too hot to vote?,24 Apr 2024 06:00AM,
+71,CNA,https://www.channelnewsasia.com/today/mental-health-matters/gen-zen-salt-rooms-benefits-singapore-4633366,Gen Zen: Are salt rooms really worth their salt? I tried one to see if they can really help me de-stress,"08 Apr 2024 08:32AM
+(Updated: 30 Sep 2024 06:50PM)",
+72,CNA,https://www.channelnewsasia.com/commentary/sustainable-aviation-fuel-levy-changi-airport-flight-carbon-emissions-offset-4227796,Commentary: Why impose a sustainable aviation fuel levy on passengers flying from Singapore?,"29 Mar 2024 06:00AM
+(Updated: 03 Apr 2024 04:02PM)",
+73,CNA,https://www.channelnewsasia.com/podcasts/skincare-saving-skin-harm-climate-change-cancer-eczema-dermatitis-4191536,The Climate Conversations Podcast: Saving our skin from harm caused by climate change,,
+74,CNA,https://www.channelnewsasia.com/singapore/formaldehyde-paints-health-concerns-ban-grace-fu-nea-4168436,Singapore to ban formaldehyde in interior paints over health concerns from 2026,04 Mar 2024 07:30PM,
+75,CNA,https://www.channelnewsasia.com/commentary/solar-geoengineering-sun-cloud-risk-climate-change-solution-4165476,Commentary: Cooling the Earth by reflecting sunlight back to space is a dangerous distraction,04 Mar 2024 06:00AM,
+76,CNA,https://www.channelnewsasia.com/asia/hongsa-coal-plant-mercury-thailand-laos-4152731,Mercury rising: Why a Thai community believes it is being poisoned across the international border,"03 Mar 2024 06:00AM
+(Updated: 04 Mar 2024 11:40AM)",
+77,CNA,https://www.channelnewsasia.com/world/us-diesel-school-bus-fumes-air-pollution-health-children-4147126,"Tired of diesel fumes, these US mothers are pushing for electric school buses",,
+78,CNA,https://www.channelnewsasia.com/sustainability/smelly-serbian-wastewater-adds-environmental-woes-4141691,Smelly Serbian wastewater adds to environmental woes,,
+79,CNA,https://www.channelnewsasia.com/asia/art-making-traditional-thai-lanterns-dying-out-younger-generation-lose-interest-4140871,"Art of making traditional Thai lanterns dying out, as younger generation lose interest",22 Feb 2024 11:39AM,
+80,CNA,https://www.channelnewsasia.com/today/voices/commentary-older-buildings-sacrificed-pursuit-progress-singaporeans-lose-who-we-are-4865071,"Commentary: As older buildings are sacrificed in the pursuit of progress, Singaporeans lose part of what makes us who we are","02 Feb 2024 03:00PM
+(Updated: 18 Jan 2025 02:59PM)",
+81,CNA,https://www.channelnewsasia.com/asia/air-pollution-south-asia-pakistan-india-border-4063181,Air pollution and politics pose cross-border challenges in South Asia,,
+82,CNA,https://www.channelnewsasia.com/commentary/nanoplastic-particle-bottled-water-pollution-health-effects-4043421,Commentary: We don’t know how worried we should be about nanoplastics,"14 Jan 2024 06:00AM
+(Updated: 22 Jan 2024 11:59AM)",
+83,CNA,https://www.channelnewsasia.com/asia/india-capital-delhi-faces-infrastructure-cost-issues-transport-sectors-green-transition-modi-4022741,"India’s capital Delhi faces infrastructure, cost issues in transport sector’s green transition",03 Jan 2024 06:08PM,
+84,CNA,https://www.channelnewsasia.com/asia/fears-losing-livelihoods-mount-manila-jeepney-drivers-protest-phase-out-iconic-vehicles-philippines-4013926,Fears of losing livelihoods mount as Manila’s jeepney drivers protest phase-out of iconic vehicles,28 Dec 2023 10:18AM,
+85,CNA,https://www.channelnewsasia.com/cna-insider/china-clean-energy-coal-climate-change-green-technology-polluter-4002291,China’s clean energy revolution a contradiction in terms? A few truths about its green story,"23 Dec 2023 06:00AM
+(Updated: 23 Dec 2023 09:12AM)",
+86,CNA,https://www.channelnewsasia.com/today/big-read/hdb-ban-pet-cats-set-be-lifted-coexist-residents-big-read-avs-3993591,"The Big Read: With the ban in HDB flats set to be lifted, can pet cats coexist in harmony with residents?",18 Dec 2023 06:00AM,
+87,CNA,https://www.channelnewsasia.com/asia/indonesia-election-anies-baswedan-ganjar-pranowo-prabowo-subianto-3982976,"Indonesian presidential candidates spar in first debate, digging up one another's past and dangling pledges","12 Dec 2023 09:52PM
+(Updated: 22 Dec 2023 08:00PM)",
+88,CNA,https://www.channelnewsasia.com/commentary/china-climate-clean-energy-cop28-oil-fossil-fuel-solar-3980161,Commentary: Why China’s clean energy boom matters for global climate action,"12 Dec 2023 06:00AM
+(Updated: 13 Dec 2023 09:34AM)",
+89,CNA,https://www.channelnewsasia.com/world/cop28-freight-transportation-delivery-dhl-green-vehicles-3975271,German delivery firms drive green transition with solar-powered boats and e-bikes,"08 Dec 2023 06:29PM
+(Updated: 08 Dec 2023 06:44PM)",
+90,CNA,https://www.channelnewsasia.com/world/how-can-world-tackle-over-tourism-and-other-downsides-travel-pursuit-global-sustainability-aims-cop28-3956196,"Global travel surge raises concerns, as local communities tackle over-tourism amid sustainability challenges","30 Nov 2023 05:46PM
+(Updated: 30 Nov 2023 08:40PM)",
+91,CNA,https://www.channelnewsasia.com/asia/indonesia-cirebon-coal-power-plant-retire-early-energy-transition-finance-net-zero-3943106,'Why would they build another one?': Indonesia ramps up clean energy while adding coal power plants,"27 Nov 2023 06:00AM
+(Updated: 18 Mar 2024 06:40PM)",
+92,CNA,https://www.channelnewsasia.com/commentary/singapore-pasar-malam-hari-raya-deepavali-stall-street-food-3928231,Commentary: What we lose when night markets fade out in Singapore,18 Nov 2023 06:00AM,
+93,CNA,https://www.channelnewsasia.com/sport/marathoners-beijing-go-maskless-unfazed-smog-3880986,"Marathoners in Beijing go maskless, unfazed by smog",,
+94,CNA,https://www.channelnewsasia.com/commentary/bus-train-commuters-phone-loud-videos-music-noise-3876961,Commentary: Should commuters be banned from watching loud videos on their phones while on public transport?,29 Oct 2023 06:00AM,
+95,CNA,https://www.channelnewsasia.com/sustainability/antarctica-doomed-slow-collapse-carbon-emissions-climate-change-3866931,"Even with carbon emissions cuts, a key part of Antarctica is doomed to slow collapse: Study",,
+96,CNA,https://www.channelnewsasia.com/commentary/indonesia-golden-visa-foreigners-investments-10-years-development-strategy-3851786,Commentary: Indonesia's 'golden visa' pitch to big-time investors must endure beyond Jokowi's term,18 Oct 2023 06:21AM,
+97,CNA,https://www.channelnewsasia.com/today/voices/commentary-black-or-white-wrong-or-right-dont-rush-take-sides-complex-issues-such-israel-hamas-conflict-4865961,Commentary: Black or white? Wrong or right? Don't rush to take sides on complex issues such as Israel-Hamas conflict,"17 Oct 2023 12:00PM
+(Updated: 20 Oct 2023 04:53PM)",
+98,CNA,https://www.channelnewsasia.com/commentary/southeast-asia-haze-pollution-climate-change-indonesia-burn-peatland-government-business-3837296,Commentary: Breaking the vicious cycle of haze and climate change in Southeast Asia,"12 Oct 2023 06:18AM
+(Updated: 12 Oct 2023 09:39AM)",
+99,CNA,https://www.channelnewsasia.com/asia/haze-asean-urged-enact-laws-indonesia-malaysia-air-quality-3826801,"Analysis: ASEAN urged to enact laws for clearer skies, as member-states bicker again over transboundary haze","06 Oct 2023 09:01PM
+(Updated: 06 Oct 2023 11:36PM)",
+100,CNA,https://www.channelnewsasia.com/sustainability/climate-change-ai-predicting-floods-disasters-3798666,From predicting floods to saving forests: 'Pivotal' role of AI in tackling 'most pressing' climate challenges,"28 Sep 2023 06:10AM
+(Updated: 28 Sep 2023 10:48AM)",
+101,CNA,https://www.channelnewsasia.com/sustainability/japanese-scientists-find-microplastics-are-present-clouds-3804051,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+102,CNA,https://www.channelnewsasia.com/singapore/world-war-ii-bomb-disposal-detonation-bukit-timah-residents-3799581,Upper Bukit Timah residents mostly relieved to find no damage to their homes after WWII bomb disposal,"26 Sep 2023 08:21PM
+(Updated: 27 Sep 2023 03:22PM)",
+103,CNA,https://www.channelnewsasia.com/singapore/focus-energy-transition-singapore-energy-petrochemical-sector-shell-3787556,"IN FOCUS: Singapore’s energy and chemicals sector set for change as net-zero transition, competition fuel uncertainties","23 Sep 2023 06:00AM
+(Updated: 26 Sep 2023 05:34PM)",
+104,CNA,https://www.channelnewsasia.com/singapore/green-bonds-700-million-jurong-region-cross-island-line-mrt-rail-network-3788746,S$700 million raised from Singapore's first sovereign green bonds put towards expansion of rail network,,
+105,CNA,https://www.channelnewsasia.com/wellness/dementia-alzheimers-disease-lifestyle-factors-sleep-mahjong-exercise-dental-health-3784656,How likely are you to develop Alzheimer's disease if your family has a history of dementia?,"21 Sep 2023 07:16AM
+(Updated: 21 Sep 2023 08:49AM)",
+106,CNA,https://www.channelnewsasia.com/commentary/apple-iphone-climate-claims-clean-energy-carbon-offsets-3773316,Commentary: Apple’s climate claims deserve scrutiny,16 Sep 2023 08:48AM,
+107,CNA,https://www.channelnewsasia.com/commentary/singapore-haze-pollution-transboundary-forest-fires-hotspots-2015-crisis-3761706,"Commentary: As haze season looms, what more can Singapore do to clear the air?","13 Sep 2023 06:01AM
+(Updated: 13 Sep 2023 02:44PM)",
+108,CNA,https://www.channelnewsasia.com/commentary/singapore-hungry-ghost-festival-joss-paper-burn-offering-charity-3755836,Commentary: Burning paper offerings isn't the only way to celebrate Hungry Ghost Festival,10 Sep 2023 06:00AM,
+109,CNA,https://www.channelnewsasia.com/asia/united-nations-climate-change-sue-government-children-legal-recourse-3746991,"Analysis: Children can sue governments over climate change inaction, but don't expect boom in Southeast Asia litigation","05 Sep 2023 03:46PM
+(Updated: 05 Sep 2023 03:47PM)",
+110,CNA,https://www.channelnewsasia.com/sustainability/un-treaty-convention-child-climate-change-legal-proceedings-montana-3734661,"More climate-related cases will be brought against governments, businesses following new UN report: Analysts","30 Aug 2023 05:42PM
+(Updated: 30 Aug 2023 06:30PM)",
+111,CNA,https://www.channelnewsasia.com/commentary/indonesia-air-pollution-jakarta-jokowi-cough-asean-summit-3729391,"Commentary: Living dangerously in Jakarta all over again, amid crippling air pollution","29 Aug 2023 06:14AM
+(Updated: 29 Aug 2023 09:27AM)",
+112,CNA,https://www.channelnewsasia.com/world/local-ambitions-liveable-cities-uk-grow-amid-central-government-pivot-green-promises-3724296,"Local ambitions for liveable cities in UK grow, amid central government pivot on green promises","25 Aug 2023 06:03PM
+(Updated: 25 Aug 2023 06:51PM)",
+113,CNA,https://www.channelnewsasia.com/commentary/singapore-transboundary-haze-pollution-southeast-asia-n95-air-purifier-health-covid-lessons-preparation-3712786,Commentary: Is Singapore prepared for the haze season?,"22 Aug 2023 06:02AM
+(Updated: 22 Aug 2023 07:24AM)",
+114,CNA,https://www.channelnewsasia.com/singapore/deep-tunnel-sewerage-system-used-water-superhighway-tunnelling-works-completed-phase-2-3708366,Tunnelling works completed for Phase 2 of Singapore's sewage 'superhighway',,
+115,CNA,https://www.channelnewsasia.com/asia/indonesia-new-capital-nusantara-no-garuda-inspired-palace-yet-3702906,No Garuda-inspired palace yet: Slow construction among other woes in Indonesia’s new capital Nusantara,"17 Aug 2023 08:15AM
+(Updated: 05 Sep 2023 11:20AM)",
+116,CNA,https://www.channelnewsasia.com/indonesia/polusi-udara-di-jakarta-el-nino-ispa-presiden-joko-widodo-3702546,"Polusi sebabkan penyakit pernapasan, Indonesia gerak cepat tangani pencemaran udara Jakarta","16 Aug 2023 03:36PM
+(Updated: 18 Aug 2023 11:30AM)",
+117,CNA,https://www.channelnewsasia.com/asia/indonesia-joko-widodo-jokowi-greater-jakarta-air-pollution-health-acute-respiratory-infection-3700291,"Nursing a persistent cough, Jokowi calls for air pollution measures in Jakarta as locals complain of respiratory issues","15 Aug 2023 06:17PM
+(Updated: 15 Aug 2023 08:16PM)",
+118,CNA,https://www.channelnewsasia.com/commentary/sinus-stuffy-nose-sneezing-allergy-rhinitis-rhinosinusitis-singapore-3650331,Commentary: Why are sinus problems so common in Singapore?,"12 Aug 2023 06:04AM
+(Updated: 12 Aug 2023 06:54PM)",
+119,CNA,https://www.channelnewsasia.com/malaysia/penapis-udara-singapura-jerebu-kesihatan-pencemaran-cuaca-ozon-kualiti-basmi-kuman-3671936,Perlukah alat penapis udara di rumah ketika jerebu melanda?,"03 Aug 2023 02:04PM
+(Updated: 03 Aug 2023 02:10PM)",
+120,CNA,https://www.channelnewsasia.com/sustainability/warming-world-air-conditioning-inevitable-3671901,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+121,CNA,https://www.channelnewsasia.com/singapore/air-purifier-haze-home-effective-filters-3607476,CNA Explains: Do you need an air purifier for your home if haze hits?,"10 Jul 2023 06:00AM
+(Updated: 10 Jul 2023 11:04AM)",
+122,CNA,https://www.channelnewsasia.com/wellness/how-dirty-clothes-wear-outside-air-pollutants-3592061,How dirty are the clothes you wear outside? Should you shower and change immediately after reaching home?,"06 Jul 2023 07:15AM
+(Updated: 07 Jul 2023 10:37AM)",
+123,CNA,https://www.channelnewsasia.com/singapore/haze-n95-mask-stockpile-pharmacy-shortage-air-purifier-3606876,MOH prepared to release stockpile of N95 masks to pharmacies if haze causes shortage,"05 Jul 2023 01:22PM
+(Updated: 05 Jul 2023 03:28PM)",
+124,CNA,https://www.channelnewsasia.com/world/canadian-wildfires-air-quality-unhealthy-chicago-3590726,Canadian wildfires are causing unhealthy air quality again in Chicago and other parts of the US,,
+125,CNA,https://www.channelnewsasia.com/singapore/businesses-prepare-rise-demand-masks-and-air-purifiers-singapore-braces-haze-season-3582431,"As haze season approaches, businesses prepare for surge in demand of masks, air purifiers","23 Jun 2023 03:01PM
+(Updated: 23 Jun 2023 07:18PM)",
+126,CNA,https://www.channelnewsasia.com/today/voices/commentary-young-architects-have-responsibility-creating-green-built-environment-next-generation-4867181,Commentary: Young architects have responsibility in creating 'green' built environment for next generation,"22 Jun 2023 12:00PM
+(Updated: 17 Jan 2025 05:11PM)","The built environment is responsible for 40 per cent of annual global carbon emissions, and in Singapore, buildings account for more than 20 per cent of national emissions."
+127,CNA,https://www.channelnewsasia.com/commentary/climate-change-haze-dirty-air-wildfire-smoke-pollution-3566936,Commentary: Wildfire smoke and dirty air are also climate change problems,19 Jun 2023 06:17AM,
+128,CNA,https://www.channelnewsasia.com/commentary/climate-change-ozone-montreal-protocol-success-slow-arctic-meltdown-3555836,Commentary: Slowing of Arctic meltdown shows we're not helpless in the face of damage to planet,13 Jun 2023 06:07AM,
+129,CNA,https://www.channelnewsasia.com/asia/malaysia-transboundary-haze-environment-forest-fire-nik-nazmi-asean-3550646,"As haze beckons, Malaysia wants its plantation firms in Indonesia to formally report forest fire measures","09 Jun 2023 04:42PM
+(Updated: 09 Jun 2023 04:49PM)",
+130,CNA,https://www.channelnewsasia.com/world/new-york-haze-smoke-canada-wildfire-skyline-3546876,"From NYC's skyline to Washington DC's monuments, wildfire haze envelopes familiar sites",,
+131,CNA,https://www.channelnewsasia.com/world/new-york-air-quality-deteriorates-canada-confronts-wildfires-3544426,New York City's air quality deteriorates as Canada confronts wildfires,,
+132,CNA,https://www.channelnewsasia.com/commentary/southeast-asia-heatwave-climate-change-weather-energy-food-health-security-3530701,Commentary: Southeast Asia’s new imperative to confront brutal heat,03 Jun 2023 06:04AM,
+133,CNA,https://www.channelnewsasia.com/asia/traffic-jams-bangkok-jakarta-kuala-lumpur-southeast-asian-cities-congestion-roads-3497091,IN FOCUS: How Southeast Asian cities lack ‘political will’ to fix notorious traffic jams,"20 May 2023 06:02AM
+(Updated: 20 May 2023 11:04AM)",
+134,CNA,https://www.channelnewsasia.com/advertorial/what-know-about-lung-cancer-and-its-common-gene-mutations-3410316,What to know about lung cancer and its common gene mutations,17 May 2023 09:28AM,
+135,CNA,https://www.channelnewsasia.com/asia/thailand-general-election-polls-open-politics-parliament-lower-house-3484191,Thailand goes to the polls with 500 seats in Lower House being contested,"14 May 2023 09:00AM
+(Updated: 14 May 2023 04:18PM)",
+136,CNA,https://www.channelnewsasia.com/asia/malaysia-environment-ministry-hot-dry-weather-southwest-monsoon-water-supply-3475366,Water supply among issues to be monitored amid hot and dry weather in Malaysia: Minister,,
+137,CNA,https://www.channelnewsasia.com/commentary/green-premium-surcharge-ev-steel-concrete-manufacturer-sustainability-climate-change-3453866,Commentary: How much extra would you pay to save the planet?,01 May 2023 06:07AM,
+138,CNA,https://www.channelnewsasia.com/asia/thailand-general-election-2023-haze-toxic-air-chiang-mai-3448906,Thai general election: Voters in the north weigh options as lingering smoky air chokes locals,"30 Apr 2023 06:10AM
+(Updated: 16 May 2023 11:44AM)",
+139,CNA,https://www.channelnewsasia.com/asia/thailand-election-prime-minister-candidate-politics-prayut-paetongtarn-3442481,Thai general election: A look at the candidates vying to be the country’s next PM,"26 Apr 2023 10:37AM
+(Updated: 16 May 2023 11:46AM)",
+140,CNA,https://www.channelnewsasia.com/asia/malaysia-haze-hot-weather-outdoors-mask-health-minister-air-index-quality-3428776,"Malaysians urged to mask up, stay indoors amid hot and hazy weather","19 Apr 2023 05:20PM
+(Updated: 19 Apr 2023 06:13PM)",
+141,CNA,https://www.channelnewsasia.com/world/india-surpass-china-population-mid-year-3428501,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+142,CNA,https://www.channelnewsasia.com/asia/vietnam-airport-construction-dust-homes-schools-health-3401191,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+143,CNA,https://www.channelnewsasia.com/asia/world-water-council-political-will-water-all-shortage-scarcity-security-3387756,‘Stop ignoring water’: World Water Council urges governments to make water security a top priority,31 Mar 2023 02:39PM,
+144,CNA,https://www.channelnewsasia.com/commentary/lancet-commercial-determinant-who-health-obesity-environment-deaths-3382056,Commentary: We can’t let companies get away with making consumers sick,30 Mar 2023 06:02AM,
+145,CNA,https://www.channelnewsasia.com/commentary/healthier-sg-population-health-moh-who-preventive-integrated-care-doctor-clinic-hospital-3345521,Commentary: Why is Singapore embarking on Healthier SG and population health?,"16 Mar 2023 06:06AM
+(Updated: 16 Mar 2023 11:00AM)",
+146,CNA,https://www.channelnewsasia.com/asia/air-quality-pollution-iqair-southeast-asia-3348551,Only 2.7% of Southeast Asia cities breathed 'healthy' air in 2022: Report,"15 Mar 2023 06:59PM
+(Updated: 15 Mar 2023 07:04PM)",
+147,CNA,https://www.channelnewsasia.com/asia/thailand-air-pollution-democrat-pheu-thai-3345576,Thai politicians vow to fight air pollution as election looms,14 Mar 2023 04:23PM,
+148,CNA,https://www.channelnewsasia.com/asia/thailand-chiang-mai-poor-air-quality-masks-3336571,"Chiang Mai air pollution worst in the world, masks distributed to residents","09 Mar 2023 02:54PM
+(Updated: 09 Mar 2023 03:26PM)",
+149,CNA,https://www.channelnewsasia.com/asia/philippines-strike-quezon-manila-jeepney-protest-ageing-vehicles-public-transport-3327581,"Philippine drivers stage strike over plan to phase out jeepneys, ageing public transport vehicles",,
+150,CNA,https://www.channelnewsasia.com/malaysia/marin-alam-sekitar-biodegradasi-plastik-sampah-semporna-sabah-rumpai-laut-sains-3321586,Membendung pencemaran marin: Pelajar Sabah cuba hasilkan bioplastik dari rumpai laut,"06 Mar 2023 12:45PM
+(Updated: 06 Mar 2023 12:47PM)",
+151,CNA,https://www.channelnewsasia.com/world/cabin-waste-food-packaging-airlines-passengers-3322141,"How much leftover food, packaging waste do you generate when you fly?",03 Mar 2023 05:38PM,
+152,CNA,https://www.channelnewsasia.com/asia/thailand-wildfire-haze-no-burning-prayuth-particulate-matter-3285466,"Thailand announces ‘no-burning’ rule until end-April to prevent wildfires, haze","17 Feb 2023 12:01PM
+(Updated: 17 Feb 2023 12:19PM)",
+153,CNA,https://www.channelnewsasia.com/sustainability/kenya-electric-transport-climate-clean-air-motorcycles-3271321,"In Kenya, an electric transport plan for clean air, climate",,
+154,CNA,https://www.channelnewsasia.com/asia/bangkok-haze-sky-thailand-air-pollution-pm25-harmful-3246881,Hazy sky clouds Bangkok as Thai capital chokes on air pollution,01 Feb 2023 08:36PM,
+155,CNA,https://www.channelnewsasia.com/asia/bangkok-air-quality-hits-unhealthy-levels-3233651,Bangkok residents advised to stay indoors as air quality hits unhealthy levels,"26 Jan 2023 07:25PM
+(Updated: 26 Jan 2023 09:22PM)",
+156,CNA,https://www.channelnewsasia.com/today/voices/commentary-why-us-considering-banning-gas-stoves-and-what-should-you-do-4868416,"Commentary: Why is the US considering banning gas stoves, and what should you do?","12 Jan 2023 12:00PM
+(Updated: 17 Jan 2025 05:45PM)","Cooks love their gadgets, from countertop slow cookers to instant-read thermometers."
+157,CNA,https://www.channelnewsasia.com/commentary/skiing-alps-winter-bleak-future-climate-change-heatwave-melt-snow-3175001,Commentary: Skiing in the Alps faces a bleak future due to climate change,,
+158,CNA,https://www.channelnewsasia.com/singapore/singapore-electric-vehicle-charging-clean-energy-southeast-asia-decarbonisation-wwf-3169326,Public infrastructure upgrade key to boosting electric vehicles adoption in Singapore,"27 Dec 2022 01:43PM
+(Updated: 27 Dec 2022 05:55PM)",
+159,CNA,https://www.channelnewsasia.com/cna-insider/thailand-plastic-waste-import-problem-ocean-waterways-3132251,"With locals not disposing of plastic correctly, Thailand is importing the world’s waste instead","11 Dec 2022 06:00AM
+(Updated: 06 Jan 2023 11:45PM)",
+160,CNA,https://www.channelnewsasia.com/singapore/dyson-zone-sale-headphones-air-purifying-face-visor-3130836,Air-purifying headphones: Dyson's latest gadget to go on sale in 2023,"08 Dec 2022 03:54PM
+(Updated: 08 Dec 2022 04:01PM)",
+161,CNA,https://www.channelnewsasia.com/asia/taiwan-president-tsai-ing-wen-resigns-head-ruling-democratic-progressive-party-following-local-election-losses-3102961,Taiwan President Tsai Ing-wen resigns as head of ruling Democratic Progressive Party following local election losses,,
+162,CNA,https://www.channelnewsasia.com/world/joy-historic-climate-damages-deal-3087396,Joy at 'historic' climate damages deal,,
+163,CNA,https://www.channelnewsasia.com/world/michael-bloomberg-climate-change-sustainability-midterms-3079886,"US midterm results positive for climate, but efforts need to start from cities, says ex-New York mayor Bloomberg",17 Nov 2022 03:20PM,
+164,CNA,https://www.channelnewsasia.com/world/ukraine-war-environmental-toll-pollution-clean-russia-invasion-3063926,Ukraine war's environmental toll to take years to clean up,,
+165,CNA,https://www.channelnewsasia.com/asia/new-delhi-tackle-smog-pollution-3061266,Growing calls for more to be done to tackle pollution in New Delhi,10 Nov 2022 10:50PM,
+166,CNA,https://www.channelnewsasia.com/cop27-organisers-launch-global-plan-drive-climate-change-adaptation-decade-3055151,COP27: Organisers launch global plan to drive climate change adaptation this decade,"09 Nov 2022 06:13AM
+(Updated: 10 Nov 2022 11:20AM)",
+167,CNA,https://www.channelnewsasia.com/sustainability/egypt-ancient-sites-luxor-climate-change-3048236,Egypt's ancient wonders face their toughest test yet - human-induced climate change,"09 Nov 2022 06:02AM
+(Updated: 09 Nov 2022 09:58AM)",
+168,CNA,https://www.channelnewsasia.com/world/usa-midterms-elections-las-vegas-drought-climate-change-environment-3050101,Air-con bills - not climate change - among concerns for US midterm voters in scorching Las Vegas,"07 Nov 2022 04:31PM
+(Updated: 05 Nov 2024 08:02PM)",
+169,CNA,https://www.channelnewsasia.com/commentary/cop27-climate-change-net-zero-target-decarbonisation-loss-damage-3044351,Commentary: Three things a climate scientist wants world leaders to know for COP27,06 Nov 2022 06:00AM,
+170,CNA,https://www.channelnewsasia.com/sustainability/climate-change-cop-27-methane-china-ocean-3044206,"Need for separate global treaty on methane, says climate expert ahead of COP27","04 Nov 2022 04:24PM
+(Updated: 04 Nov 2022 04:33PM)",
+171,CNA,https://www.channelnewsasia.com/asia/india-new-delhi-smog-haze-air-pollution-3044111,New Delhi battles dangerous levels of air pollution,,
+172,CNA,https://www.channelnewsasia.com/asia/5-places-visit-japan-taiwan-kanazawa-miyaji-amori-green-island-gaomei-wetlands-3007516,Five on Friday: 5 off the beaten track places to visit in Japan and Taiwan,14 Oct 2022 04:30PM,
+173,CNA,https://www.channelnewsasia.com/singapore/climate-change-infectious-diseases-zika-monkeypox-dengue-singapore-2973651,Rising temperatures could increase risk of new infectious diseases in Singapore: Experts,"11 Oct 2022 06:03AM
+(Updated: 11 Oct 2022 07:31AM)",
+174,CNA,https://www.channelnewsasia.com/sustainability/united-states-florida-hurricane-ian-pollution-phosphate-fertiliser-mining-2970386,Pollution from Florida mining a concern with Hurricane Ian,,
+175,CNA,https://www.channelnewsasia.com/commentary/why-cancer-rising-young-obesity-diet-genetic-treatment-2960586,Commentary: Why is cancer among those aged under 50 rising globally?,25 Sep 2022 06:00AM,
+176,CNA,https://www.channelnewsasia.com/commentary/air-pollution-lung-cancer-link-fine-particles-drug-companies-2943371,Commentary: A scary new link between air pollution and lung cancer,18 Sep 2022 06:00AM,
+177,CNA,https://www.channelnewsasia.com/sustainability/scientists-discover-how-air-pollution-triggers-lung-cancer-2931111,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+178,CNA,https://www.channelnewsasia.com/sustainability/zombie-ice-greenland-will-raise-sea-level-27cm-2907651,'Zombie ice' from Greenland will raise sea level by 27cm,,
+179,CNA,https://www.channelnewsasia.com/world/california-says-new-cars-must-be-zero-emission-2035-2900951,California says new cars must be zero emission by 2035,,
+180,CNA,https://www.channelnewsasia.com/singapore/electric-motorcycle-singaporean-rwanda-ev-2809251,"In Rwanda, a Singaporean company selling electric motorcycles woos bikers fed-up with high pump prices","21 Aug 2022 06:00AM
+(Updated: 21 Aug 2022 01:42PM)",
+181,CNA,https://www.channelnewsasia.com/advertorial/breathe-easy-when-air-fresh-2835896,"Breathe easy, when the air is fresh","19 Aug 2022 09:18AM
+(Updated: 19 Aug 2022 09:29AM)",
+182,CNA,https://www.channelnewsasia.com/singapore/final-supermoon-2022-singapore-sturgeon-aug-11-2874736,Final supermoon of 2022 illuminates night sky over Singapore,"11 Aug 2022 09:51PM
+(Updated: 12 Aug 2022 04:51PM)",
+183,CNA,https://www.channelnewsasia.com/commentary/travel-flight-sustainable-offset-train-car-carbon-emissions-2861376,Commentary: Revenge travel wreaks havoc on more than just airports,"07 Aug 2022 06:00AM
+(Updated: 07 Aug 2022 08:00AM)",
+184,CNA,https://www.channelnewsasia.com/commentary/singapore-space-port-offshore-launch-site-malaysia-indonesia-2855086,Commentary: Could the next hotspot for offshore rocket launches be off the Singapore and Malaysia coast?,"04 Aug 2022 06:01AM
+(Updated: 04 Aug 2022 07:34AM)",
+185,CNA,https://www.channelnewsasia.com/asia/indonesia-south-kalimantan-floating-toilet-waste-pollution-environment-2841991,‘Wait until surrounding is quiet’: Villagers in Indonesia’s Kalimantan make do with primitive floating toilets,"31 Jul 2022 06:00AM
+(Updated: 31 Jul 2022 11:00AM)",
+186,CNA,https://www.channelnewsasia.com/commentary/indonesia-jakarta-covid19-masks-air-pollution-health-2844626,"Commentary: With or without COVID-19, Jakarta should keep masks on","30 Jul 2022 06:00AM
+(Updated: 30 Jul 2022 06:08PM)",
+187,CNA,https://www.channelnewsasia.com/commentary/climate-change-carbon-emissions-ipcc-green-transport-energy-meat-2799461,Commentary: Every action counts when it comes to net zero - here are the most effective,13 Jul 2022 06:03AM,
+188,CNA,https://www.channelnewsasia.com/today/brand-spotlight/say-hello-glowing-radiant-skin-4635956,"Say hello to glowing, radiant skin","07 Jul 2022 08:56AM
+(Updated: 25 Sep 2024 11:12PM)",
+189,CNA,https://www.channelnewsasia.com/sustainability/theyre-everywhere-microplastics-oceans-air-and-human-body-2787146,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+190,CNA,https://www.channelnewsasia.com/asia/india-bans-single-use-plastics-tackle-waste-2784771,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+191,CNA,https://www.channelnewsasia.com/world/us-supreme-court-limits-government-powers-curb-greenhouse-gases-2783971,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+192,CNA,https://www.channelnewsasia.com/world/cement-carbon-dioxide-emissions-quietly-double-20-years-2763856,Cement carbon dioxide emissions quietly double in 20 years,,
+193,CNA,https://www.channelnewsasia.com/commentary/recession-gdp-growth-all-costs-slow-down-2756541,Commentary: Recession should kill off the romantic idea that GDP is not everything,20 Jun 2022 06:09AM,
+194,CNA,https://www.channelnewsasia.com/commentary/net-zero-carbon-emissions-methane-climate-change-air-quality-pollution-2745146,Commentary: Climate change poses an immediate health crisis for Asia,"15 Jun 2022 06:06AM
+(Updated: 15 Jun 2022 09:04AM)",
+195,CNA,https://www.channelnewsasia.com/sustainability/microscopic-air-pollution-shorten-lives-worldwide-two-years-2745681,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+196,CNA,https://www.channelnewsasia.com/world/pollution-behind-1-6-global-deaths-2019-study-2690026,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+197,CNA,https://www.channelnewsasia.com/asia/27-killed-building-fire-indian-capital-new-delhi-2684676,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+198,CNA,https://www.channelnewsasia.com/asia/indonesia-nickel-mining-electric-vehicles-environment-2680276,"IN FOCUS: Indonesia wants to bag EV riches, but locals are split over what it means for them","14 May 2022 06:01AM
+(Updated: 11 Oct 2022 03:02PM)",
+199,CNA,https://www.channelnewsasia.com/business/companies-envision-taxis-flying-above-jammed-traffic-2670966,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+200,CNA,https://www.channelnewsasia.com/world/eu-citizens-may-sue-countries-health-damaging-dirty-air-top-court-adviser-says-2666031,"EU citizens may sue countries for health-damaging dirty air, top court adviser says",,
+201,CNA,https://www.channelnewsasia.com/asia/malaysia-doe-detention-order-beranang-sungai-semenyih-selangor-pollution-selangor-2665966,Malaysia’s environment agency issues detention order against Selangor factory suspected of causing water cut,05 May 2022 06:06PM,
+202,CNA,https://www.channelnewsasia.com/sustainability/research-plant-fertiliser-urine-nutrients-environment-pollution-2663401,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+203,CNA,https://www.channelnewsasia.com/world/blast-illegal-nigerian-oil-refinery-kills-more-100-people-2643376,Blast at illegal Nigerian oil refinery kills more than 100 people,,
+204,CNA,https://www.channelnewsasia.com/living/creative-capital-forest-whale-reuse-lab-sustainable-design-2633676,The couple behind Forest & Whale wants to combat single-use plastic in Singapore's 'dabao' culture,24 Apr 2022 07:06AM,
+205,CNA,https://www.channelnewsasia.com/sustainability/bridge-gap-climate-change-awareness-action-singapore-2589291,How can Singapore bridge the gap between climate change awareness and sustainable actions?,"22 Apr 2022 06:16AM
+(Updated: 22 Apr 2022 08:00AM)",
+206,CNA,https://www.channelnewsasia.com/world/small-actions-can-help-reduce-reliance-russian-energy-iea-2639286,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+207,CNA,https://www.channelnewsasia.com/commentary/vaping-cigarettes-quit-smoking-addiction-reduced-harm-2613571,Commentary: Trying to quit smoking? E-cigarettes may make things worse,08 Apr 2022 06:01AM,
+208,CNA,https://www.channelnewsasia.com/sustainability/nearly-entire-global-population-breathing-polluted-air-world-health-organization-2607106,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+209,CNA,https://www.channelnewsasia.com/world/un-talks-climate-solutions-wrap-two-days-overtime-2605386,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+210,CNA,https://www.channelnewsasia.com/business/biodiversity-loss-threatens-economic-stability-central-banks-report-2584301,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+211,CNA,https://www.channelnewsasia.com/sustainability/climate-fight-rich-nations-must-give-oil-first-report-2579431,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+212,CNA,https://www.channelnewsasia.com/sustainability/climate-catastrophe-united-nations-chief-antonio-guterres-2577096,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+213,CNA,https://www.channelnewsasia.com/asia/johor-state-election-chief-minister-menteri-besar-2545146,Johor state election: Who is in the running to be the next chief minister?,"08 Mar 2022 06:08AM
+(Updated: 08 Mar 2022 04:30PM)",
+214,CNA,https://www.channelnewsasia.com/sustainability/polluting-drivers-may-have-pay-all-london-2539861,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+215,CNA,https://www.channelnewsasia.com/sustainability/plastic-pollution-ban-un-takes-first-step-towards-historic-treaty-2531036,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+217,CNA,https://www.channelnewsasia.com/commentary/driverless-cars-harm-environment-automated-vehicles-2504586,Commentary: Driverless cars may do more harm than good to environment,21 Feb 2022 06:14AM,
+218,CNA,https://www.channelnewsasia.com/asia/indonesia-jakarta-homelessness-sleeping-rough-poverty-vaccine-access-2506681,"For the homeless in Jakarta, COVID-19 means more economic desperation and health risks","20 Feb 2022 06:01AM
+(Updated: 20 Feb 2022 09:58AM)",
+219,CNA,https://www.channelnewsasia.com/cna-insider/i-will-die-too-whats-stake-indias-reliance-coal-power-2492321,‘I will die too’: What’s at stake in India’s reliance on coal power,12 Feb 2022 06:15AM,
+220,CNA,https://www.channelnewsasia.com/sport/beijing-winter-olympics-heavy-air-pollution-2455746,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+221,CNA,https://www.channelnewsasia.com/business/game-changer-e-moped-batteries-spread-taiwan-across-asia-2444666,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+222,CNA,https://www.channelnewsasia.com/business/ces-tech-show-las-vegas-covid-19-masks-nibbling-cats-2413881,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+223,CNA,https://www.channelnewsasia.com/commentary/vinfast-vietnam-china-electric-cars-electric-vehicles-2398111,Commentary: Why Vietnam’s electric carmaker VinFast is launching in the US and bypassing China,"28 Dec 2021 06:26AM
+(Updated: 28 Dec 2021 06:27AM)",
+224,CNA,https://www.channelnewsasia.com/commentary/carbon-emissions-aviation-industry-air-travel-airplane-tourism-2393281,Commentary: Carbon neutrality in the aviation industry is not mission impossible,28 Dec 2021 06:18AM,
+225,CNA,https://www.channelnewsasia.com/sport/human-cost-chinas-green-energy-rush-ahead-winter-olympics-2392781,Human cost of China's green energy rush ahead of Winter Olympics,,
+226,CNA,https://www.channelnewsasia.com/commentary/cop26-india-coal-carbon-dioxide-emissions-2363211,Commentary: Why India can't commit to phasing out coal just yet,12 Dec 2021 06:00AM,
+227,CNA,https://www.channelnewsasia.com/cna-insider/too-much-noise-can-harm-your-health-thats-potentially-problem-singapore-2350251,Too much noise can harm your health. That’s potentially a problem in Singapore,"03 Dec 2021 06:15AM
+(Updated: 22 Apr 2022 03:23PM)",
+228,CNA,https://www.channelnewsasia.com/advertorial/find-your-relaxing-new-year-escape-discount-2306491,Find your relaxing new year escape at a discount,01 Dec 2021 03:54PM,
+229,CNA,https://www.channelnewsasia.com/asia/purity-or-power-indias-coal-quandary-2347066,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+230,CNA,https://www.channelnewsasia.com/singapore/food-climate-change-2338826,IN FOCUS: Will changing what we eat help save the planet?,"27 Nov 2021 06:00AM
+(Updated: 27 Nov 2021 07:43AM)",
+231,CNA,https://www.channelnewsasia.com/asia/indonesia-jakarta-air-pollution-emissions-vehicles-factories-2285926,IN FOCUS: The ongoing struggle to reduce air pollution in Jakarta and why the problem has persisted,20 Nov 2021 06:02AM,
+232,CNA,https://www.channelnewsasia.com/world/spain-countryside-pig-farms-pollution-environmental-impact-2322216,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+233,CNA,https://www.channelnewsasia.com/today/voices/un-climate-process-designed-fail-due-politics-heres-alternative-4878396,The UN climate process is designed to fail due to politics. Here’s an alternative,"16 Nov 2021 05:00PM
+(Updated: 20 Jan 2025 10:30AM)",
+234,CNA,https://www.channelnewsasia.com/sustainability/climate-glasgow-vertical-farming-microgreens-2310806,"Sun, wind and rain on a tray: How the Scottish are finding food solutions using vertical farming","15 Nov 2021 06:11AM
+(Updated: 16 Nov 2021 06:43AM)",
+235,CNA,https://www.channelnewsasia.com/asia/new-delhi-india-air-pollution-smog-2312691,Smog chokes Indian capital as air pollution levels soar,,
+236,CNA,https://www.channelnewsasia.com/asia/delhi-shuts-schools-pollution-emergency-looms-2311816,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+237,CNA,https://www.channelnewsasia.com/world/us-china-climate-pact-what-does-it-mean-beijing-2306606,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+238,CNA,https://www.channelnewsasia.com/sustainability/cop26-electric-vehicles-internal-combustion-engine-pledge-2304456,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+239,CNA,https://www.channelnewsasia.com/world/chile-desert-dumping-ground-fast-fashion-clothes-2297786,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+240,CNA,https://www.channelnewsasia.com/world/southern-california-new-smog-rules-refineries-air-pollution-2295221,Southern California enacts new smog rules on refineries,,
+241,CNA,https://www.channelnewsasia.com/asia/india-smog-delhi-air-pollution-diwali-2291566,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+242,CNA,https://www.channelnewsasia.com/sustainability/methane-climate-change-global-warming-temperature-rise-2287656,Why methane is climate's low-hanging invisible fruit,,
+243,CNA,https://www.channelnewsasia.com/asia/air-quality-set-plummet-indias-capital-after-clean-spell-2285721,Air quality set to plummet in India's capital after clean spell,,
+244,CNA,https://www.channelnewsasia.com/commentary/cop26-climate-change-significant-major-nations-emissions-2277236,Commentary: Worrying signs COP26 is being set up for failure,30 Oct 2021 06:00AM,
+245,CNA,https://www.channelnewsasia.com/sustainability/china-carbon-neutral-climate-change-coal-energy-greenhouse-gas-2269347,How China plans to become carbon neutral by 2060,,
+246,CNA,https://www.channelnewsasia.com/sport/china-beijing-2022-olympics-summer-winter-games-political-pressure-2269122,Why the Beijing Winter Olympics are facing political pressure,,
+247,CNA,https://www.channelnewsasia.com/exceptional-homes/sentosa-cove-property-2250991,4 reasons why Sentosa Cove is making a comeback in 2021,,
+248,CNA,https://www.channelnewsasia.com/commentary/un-cop15-kunming-biodiversity-cop26-climate-talks-target-wildlife-2253591,Commentary: Will new UN biodiversity targets stop the decline of wildlife?,20 Oct 2021 06:03AM,
+249,CNA,https://www.channelnewsasia.com/asia/asia-pacific-indonesia-china-india-japan-carbon-coal-climate-2250956,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+250,CNA,https://www.channelnewsasia.com/commentary/cop26-carbon-market-paris-agreement-offset-credits-trade-net-zero-emissions-2241446,Commentary: Carbon markets can make responsible firms bear costs of climate change,"14 Oct 2021 06:03AM
+(Updated: 15 Oct 2021 08:22AM)",
+251,CNA,https://www.channelnewsasia.com/advertorial/setting-new-bar-reusable-stylish-and-effective-face-masks-2215141,"Setting a new bar in reusable, stylish and effective face masks",13 Oct 2021 08:30AM,
+252,CNA,https://www.channelnewsasia.com/sustainability/un-biodiversity-summit-conference-animals-plants-climate-2228321,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+253,CNA,https://www.channelnewsasia.com/singapore/can-singapore-become-hub-sustainable-cruise-ships-2184716,Can Singapore become a hub for sustainable cruise ships?,"04 Oct 2021 06:01AM
+(Updated: 04 Oct 2021 10:59AM)",
+254,CNA,https://www.channelnewsasia.com/commentary/asean-clean-energy-indonesia-thailand-vietnam-solar-wind-coal-fossil-fuel-2176221,Commentary: Why the shift to renewable energy in Southeast Asia is patchy,03 Oct 2021 06:01AM,
+255,CNA,https://www.channelnewsasia.com/sustainability/air-quality-singapore-improved-2020-slowdown-economic-and-transport-activities-nea-report-2212651,"Air quality in Singapore improved in 2020, with slowdown in economic and transport activities: NEA report","30 Sep 2021 06:29PM
+(Updated: 30 Sep 2021 07:05PM)",
+256,CNA,https://www.channelnewsasia.com/commentary/ship-carbon-emissions-net-zero-fuel-un-imo-2199146,Commentary: Ships are sailing into climate catastrophe. Here’s how they can change course,26 Sep 2021 06:00AM,
+257,CNA,https://www.channelnewsasia.com/sustainability/climate-change-education-southeast-asia-syllabus-cop26-2196686,Climate education still a ‘peripheral topic’ in Southeast Asia’s syllabus amid calls to make it compulsory,"26 Sep 2021 06:00AM
+(Updated: 27 Sep 2021 01:25PM)",
+258,CNA,https://www.channelnewsasia.com/commentary/cotton-tote-bag-plastic-single-use-waste-recycle-reuse-climate-change-2194151,Commentary: A tote bag sounds like the eco-friendly option – but it isn’t always,"23 Sep 2021 06:03AM
+(Updated: 24 Sep 2021 08:49AM)",
+259,CNA,https://www.channelnewsasia.com/world/work-related-deaths-kill-nearly-2-million-people-year-un-agencies-2186046,Work-related deaths kill nearly 2 million people a year: UN agencies,,
+260,CNA,https://www.channelnewsasia.com/business/chinese-steel-ingredients-fall-regulator-extends-environmental-curbs-2185011,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+261,CNA,https://www.channelnewsasia.com/asia/indonesia-government-guilty-lawsuit-unhealthy-air-quality-jakarta-2182141,Court rules in favour of Jakarta residents for unhealthy air quality lawsuit against the government,"16 Sep 2021 03:57PM
+(Updated: 16 Sep 2021 04:00PM)",
+262,CNA,https://www.channelnewsasia.com/today/voices/burning-joss-paper-housing-estates-take-better-measures-manage-pollution-4646046,Burning of joss paper in housing estates: Take better measures to manage pollution,,
+263,CNA,https://www.channelnewsasia.com/women/skincare-guide-busy-woman-beauty-products-2163731,The busy woman’s complete guide to taking care of your skin,14 Sep 2021 07:11AM,
+264,CNA,https://www.channelnewsasia.com/singapore/tougher-laws-be-introduced-october-2022-reduce-construction-noise-and-greenhouse-gas-emissions-2174746,Tougher laws to be introduced in October 2022 to reduce construction noise and greenhouse gas emissions,"13 Sep 2021 09:09PM
+(Updated: 13 Sep 2021 09:20PM)",
+265,CNA,https://www.channelnewsasia.com/commentary/reusable-containers-not-better-environment-disposable-plastic-recycling-sustainability-2164766,Commentary: Reusable containers are not always better for the environment than disposable plastic ones,"11 Sep 2021 06:00AM
+(Updated: 11 Sep 2021 10:11PM)",
+266,CNA,https://www.channelnewsasia.com/style-beauty/sensitive-skin-vs-eczema-symptoms-causes-treatment-2103496,Sensitive skin or eczema: How can you tell and what can you do about it?,23 Aug 2021 07:08AM,
+267,CNA,https://www.channelnewsasia.com/asia/china-driverless-cars-autonomous-vehicles-2118566,China revs up in race to a driverless future,21 Aug 2021 06:02AM,
+268,CNA,https://www.channelnewsasia.com/advertorial/5-ways-teach-your-kids-importance-sustainability-2088886,5 ways to teach your kids the importance of sustainability,17 Aug 2021 02:27PM,
+269,CNA,https://www.channelnewsasia.com/commentary/covid-19-coronavirus-mask-mandatory-vaccine-uk-asia-2105896,Commentary: Will masks stay in vogue even after the pandemic?,12 Aug 2021 06:10AM,
+270,CNA,https://www.channelnewsasia.com/business/analysis-sunrise-or-another-false-dawn-technology-bury-emissions-2106311,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+271,CNA,https://www.channelnewsasia.com/singapore/manufacturer-caterer-diversifying-urban-farming-singapore-2094266,A manufacturer and a food caterer among new players feeding Singapore’s urban farming boom,11 Aug 2021 06:09AM,
+272,CNA,https://www.channelnewsasia.com/business/could-display-drones-snuff-out-firework-2075226,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+273,CNA,https://www.channelnewsasia.com/cna-lifestyle/uks-swan-uppers-take-thames-check-queens-birds-2045871,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+274,CNA,https://www.channelnewsasia.com/asia/china-henan-yunnan-failure-environment-pollution-smog-2034171,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+275,CNA,https://www.channelnewsasia.com/world/touting-new-trains-amtrak-ceo-foresees-riders-heading-back-2022061,"Touting new trains, Amtrak CEO foresees riders heading back",,
+276,CNA,https://www.channelnewsasia.com/wellness/challenges-treating-bipolar-disorder-young-people-2027716,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+277,CNA,https://www.channelnewsasia.com/asia/thai-factory-blast-fire-toxic-chemicals-dissipate-1984076,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+278,CNA,https://www.channelnewsasia.com/asia/chilean-scientists-repurpose-co2-monitors-stop-covid-19-spread-indoors-1947751,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+279,CNA,https://www.channelnewsasia.com/electric-vehicles-may-be-fast-and-low-maintenance-are-they-real-climate-solution-2030271,"Electric vehicles may be fast and low-maintenance, but are they a real climate solution?","19 Jun 2021 06:15AM
+(Updated: 10 Jul 2021 03:18AM)",
+280,CNA,https://www.channelnewsasia.com/advertorial/rethink-what-you-know-about-fresh-air-2060386,Rethink what you know about fresh air,"15 Jun 2021 02:59PM
+(Updated: 11 Nov 2021 10:57AM)",
+281,CNA,https://www.channelnewsasia.com/business/indonesia-aims-sell-only-electric-powered-cars-motorbikes-2050-1855921,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+282,CNA,https://www.channelnewsasia.com/cna-lifestyle/swedish-flying-boat-aims-help-save-venice-waves-1837786,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+283,CNA,https://www.channelnewsasia.com/business/california-regulator-adopts-ev-mandate-uber-lyft-ride-hail-fleets-1389251,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+284,CNA,https://www.channelnewsasia.com/climatechange/jakarta-residents-fed-up-toxir-air-court-ruling-1378756,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+285,CNA,https://www.channelnewsasia.com/asia/indonesia-electric-motorbike-market-potential-environment-1371591,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+286,CNA,https://www.channelnewsasia.com/commentary/china-remote-hybrid-work-covid-shanghai-home-price-pollution-job-1371556,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+287,CNA,https://www.channelnewsasia.com/world/cutting-methane-quickly-key-curbing-dangerous-warming-un-1349616,Cutting methane quickly key to curbing dangerous warming: UN,,
+288,CNA,https://www.channelnewsasia.com/obsessions/maserati-ghibli-hybrid-car-electric-vehicle-1355221,Could the new Maserati Ghibli Hybrid be what electric dreams are made of?,06 May 2021 06:30AM (Updated: 04 Jul 2021 08:14PM),
+289,CNA,https://www.channelnewsasia.com/world/biden-aims-momentum-us-returns-climate-fight-237706,Biden aims for momentum as US returns to climate fight,,
+290,CNA,https://www.channelnewsasia.com/cna-lifestyle/belgian-artists-portable-oasis-creates-covid-free-bubble-one-228611,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+291,CNA,https://www.channelnewsasia.com/sport/motor-racing-miami-make-f1-debut-2022-under-10-year-deal-227101,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+292,CNA,https://www.channelnewsasia.com/commentary/coldplay-malaysia-environment-climate-activism-plastic-pollution-1883281,Commentary: What good will Coldplay’s vessel cleaning up Malaysia rivers do?,"02 Apr 2021 06:04AM
+(Updated: 04 May 2021 06:39PM)",
+293,CNA,https://www.channelnewsasia.com/business/biden-says-us2-trillion-jobs-plan-rivals-space-race-its-ambition-293786,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+294,CNA,https://www.channelnewsasia.com/asia/beijing-enveloped-hazardous-sandstorm-second-time-two-weeks-287831,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+295,CNA,https://www.channelnewsasia.com/sport/sport-floating-sea-high-carbon-sponsorship-says-report-274296,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+296,CNA,https://www.channelnewsasia.com/business/targeting-tesla-chinas-geely-launch-new-premium-ev-brand-sources-267521,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+297,CNA,https://www.channelnewsasia.com/business/global-airline-emissions-plan-falls-short-eu-goals-brussels-advised-263446,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+298,CNA,https://www.channelnewsasia.com/business/chinas-geely-add-us5-billion-battery-plant-ev-push-332356,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+299,CNA,https://www.channelnewsasia.com/cna-lifestyle/athens-tackles-heat-and-pollution-pocket-sized-parks-320246,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+300,CNA,https://www.channelnewsasia.com/business/budget-airlines-seek-eu-sustainable-fuel-quotas-all-flights-321171,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+301,CNA,https://www.channelnewsasia.com/business/exclusive-chinese-ev-trio-eye-hk-listings-year-raise-combined-us5-billion-sources-316031,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+302,CNA,https://www.channelnewsasia.com/business/us-sues-ez-lynk-selling-vehicle-emissions-defeat-devices-316501,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+303,CNA,https://www.channelnewsasia.com/wellness/asthma-no-one-size-fits-all-treatment-1923861,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+304,CNA,https://www.channelnewsasia.com/business/delta-spend-us30-million-neutralize-most-its-2020-climate-impact-256911,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+305,CNA,https://www.channelnewsasia.com/business/us-judge-knocks-nearly-us6-million-fine-exxon-baytown-texas-pollution-307236,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+306,CNA,https://www.channelnewsasia.com/business/chinese-telecoms-firm-zte-preparing-electric-vehicle-product-line-254596,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+307,CNA,https://www.channelnewsasia.com/climate-change/biden-administration-promises-focus-environmental-justice-1883106,Biden administration promises focus on environmental justice,,
+308,CNA,https://www.channelnewsasia.com/business/airline-ceos-urge-white-house-support-greener-aviation-fuel-379681,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+309,CNA,https://www.channelnewsasia.com/business/china-huawei-reeling-from-us-sanctions-plans-foray-into-evs-377021,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+310,CNA,https://www.channelnewsasia.com/asia/china-target-allow-air-pollution-rise-slightly-2021-374426,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+311,CNA,https://www.channelnewsasia.com/commentary/economic-growth-enough-reduce-tackle-poverty-us-biden-368821,Commentary: Growth alone is not enough to lift all boats,"24 Feb 2021 06:02AM
+(Updated: 24 Feb 2021 06:10AM)",
+312,CNA,https://www.channelnewsasia.com/asia/beijing-smog-casts-gloom-over-chinese-new-year-holiday-348926,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+313,CNA,https://www.channelnewsasia.com/business/elon-musk-wants-clean-power-teslas-carrying-bitcoins-dirty-baggage-341216,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+314,CNA,https://www.channelnewsasia.com/business/chinese-regulators-call-tesla-over-customer-complaints-336401,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+315,CNA,https://www.channelnewsasia.com/asia/jakarta-flooding-relocation-giant-seawall-anies-baswedan-1883006,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+316,CNA,https://www.channelnewsasia.com/business/ford-motor-terminates-electric-vehicle-plans-chinas-zotye-303826,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+317,CNA,https://www.channelnewsasia.com/asia/china-national-energy-administration-negligence-environment-442946,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+318,CNA,https://www.channelnewsasia.com/asia/china-air-quality-improved-2020-lockdowns-tougher-quality-control-410266,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+319,CNA,https://www.channelnewsasia.com/business/teslas-model-y-emerge-disruptor-china-ev-sales-zoom-2021-405986,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+320,CNA,https://www.channelnewsasia.com/asia/india-supreme-court-suspends-new-farm-laws-401791,India's top court suspends implementation of new farm laws,,
+321,CNA,https://www.channelnewsasia.com/business/tesla-s-model-y-to-emerge-disruptor-as-china-ev-sales-zoom-402516,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+322,CNA,https://www.channelnewsasia.com/asia/indian-farmers-continue-highway-protests-after-talks-fail-386596,Indian farmers to continue highway protests after talks fail,,
+323,CNA,https://www.channelnewsasia.com/world/congress-takes-aim-climate-change-massive-relief-bill-498271,Congress takes aim at climate change in massive relief bill,,
+324,CNA,https://www.channelnewsasia.com/business/putting-green-greenback-esg-investors-target-corporate-accounts-488766,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+325,CNA,https://www.channelnewsasia.com/asia/thailand-authorities-clamp-down-polluters-bangkok-haze-480546,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+326,CNA,https://www.channelnewsasia.com/cnainsider/engineer-innovator-aerial-silks-dancer-nus-don-flies-air-hobby-674401,"Engineer, innovator, aerial dancer: NUS scientist flies through the air on silk as a hobby","15 Dec 2020 06:15AM
+(Updated: 22 Dec 2020 04:41PM)",
+327,CNA,https://www.channelnewsasia.com/business/trumps-epa-finalize-rule-making-it-harder-new-clean-air-curbs-source-469156,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+328,CNA,https://www.channelnewsasia.com/commentary/biden-climate-plan-us-paris-agreement-carbon-emissions-1340176,Commentary: Joe Biden takes office in pivotal moment for climate action. Can he deliver?,"06 Dec 2020 06:06AM
+(Updated: 04 May 2021 05:40PM)",
+329,CNA,https://www.channelnewsasia.com/business/exclusive-lg-chem-double-china-battery-capacity-meet-tesla-demand-sources-446681,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+330,CNA,https://www.channelnewsasia.com/sport/top-runners-brave-pollution-covid-19-pandemic-delhi-half-marathon-576586,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+331,CNA,https://www.channelnewsasia.com/climatechange/shipping-maritime-industry-lng-clean-energy-bunker-fuel-1340081,Making shipping cleaner - is LNG the answer?,"26 Nov 2020 06:09AM
+(Updated: 04 May 2021 05:36PM)",
+332,CNA,https://www.channelnewsasia.com/world/who-are-top-contenders-biden-administration-544566,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+333,CNA,https://www.channelnewsasia.com/asia/northern-india-toxic-smog-day-after-diwali-new-delhi-685626,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+334,CNA,https://www.channelnewsasia.com/commentary/indonesia-forest-fire-peat-haze-palm-oil-jokowi-omnibus-bill-681301,Commentary: Little smoke this haze season – but fires rage on in Indonesia,"15 Nov 2020 06:01AM
+(Updated: 11 Feb 2021 01:40PM)",
+335,CNA,https://www.channelnewsasia.com/asia/india-new-delhi-heavy-pollution-motorists-turn-engine-off-681076,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+336,CNA,https://www.channelnewsasia.com/asia/india-reports-more-than-45-900-new-covid-19-cases-new-delhi-high-534926,"India reports more than 45,900 new COVID-19 cases, with New Delhi recording new high",,
+337,CNA,https://www.channelnewsasia.com/asia/india-smog-air-pollution-covid-19-health-disease-534626,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+338,CNA,https://www.channelnewsasia.com/asia/india-new-delhi-covid-19-cases-surge-532856,Indian capital struggles with surge in COVID-19 cases,,
+339,CNA,https://www.channelnewsasia.com/asia/covid-19-india-polluted-air-spells-trouble-coronavirus-patients-531676,Trouble for COVID-19 patients as New Delhi suffers from 'severe' air pollution for 3rd day,,
+340,CNA,https://www.channelnewsasia.com/business/us-supreme-courts-rightward-move-could-benefit-oil-and-gas-interests-976336,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+341,CNA,https://www.channelnewsasia.com/world/economy-covid-19-pandemic-overshadow-climate-young-us-voters-691396,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+342,CNA,https://www.channelnewsasia.com/asia/covid-19-india-61-800-new-cases-more-than-1-000-deaths-691586,"India confirms 61,800 new COVID-19 cases, more than 1,000 deaths",,
+343,CNA,https://www.channelnewsasia.com/asia/india-sends-out-scientists-tackle-winter-air-pollution-woes-963081,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+344,CNA,https://www.channelnewsasia.com/asia/india-peak-holiday-season-covid-19-963476,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+345,CNA,https://www.channelnewsasia.com/business/audi-launch-new-electric-vehicle-venture-chinas-faw-958071,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+346,CNA,https://www.channelnewsasia.com/business/china-auto-sales-golden-september-958281,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+347,CNA,https://www.channelnewsasia.com/asia/india-delhi-air-pollution-smog-health-covid-19-738181,New Delhi launches campaign to curb toxic air pollution,,
+348,CNA,https://www.channelnewsasia.com/asia/india-new-delhi-loses-cleaner-covid-19-lockdown-air-farmers-burn-688481,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+349,CNA,https://www.channelnewsasia.com/asia/in-focus-thailand-chana-industrial-city-environment-development-1339386,"IN FOCUS: Livelihoods, environment on the line as Thailand pushes for new industrial park","19 Sep 2020 06:00AM
+(Updated: 04 May 2021 04:09PM)",
+350,CNA,https://www.channelnewsasia.com/asia/urban-heat-island-asia-bangkok-singapore-climate-change-health-1339376,Hot in the city: Rising night temperatures a potentially major health issue in Asian metropolises,"13 Sep 2020 06:01AM
+(Updated: 04 May 2021 03:47PM)",
+351,CNA,https://www.channelnewsasia.com/commentary/covid-19-singapore-port-shipping-maritime-green-tech-carbon-fuel-1339201,Commentary: Singapore ports and ships are turning the tide on climate change,"23 Aug 2020 06:01AM
+(Updated: 04 May 2021 03:28PM)",
+352,CNA,https://www.channelnewsasia.com/commentary/covid-19-circuit-breaker-grass-cut-frequency-biodiversity-nparks-1339181,Commentary: Let Singapore’s green spaces grow wild,"15 Aug 2020 06:01AM
+(Updated: 04 May 2021 03:18PM)",
+353,CNA,https://www.channelnewsasia.com/climatechange/china-air-pollution-falls-covid-19-slowdown-619786,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+354,CNA,https://www.channelnewsasia.com/asia/air-pollution-asia-research-data-economic-loss-premature-deaths-1339001,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+355,CNA,https://www.channelnewsasia.com/wellness/trendy-masks-air-purifiers-heated-sanitisers-breathable-fabric-1381866,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+356,CNA,https://www.channelnewsasia.com/asia/covid-19-greener-cleaner-cities-urban-planning-southeast-asia-1338931,Greener and cleaner: Reimagining our cities in the wake of COVID-19,"06 Jun 2020 06:01AM
+(Updated: 04 May 2021 02:41PM)",
+357,CNA,https://www.channelnewsasia.com/world/climate-change-factors-death-certificates-1338926,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+358,CNA,https://www.channelnewsasia.com/asia/climate-change-south-korea-new-green-deal-ambitious-1338886,South Korea’s Green New Deal ‘stunningly ambitious’ for one of region’s top polluters,"15 May 2020 05:59AM
+(Updated: 04 May 2021 02:34PM)",
+359,CNA,https://www.channelnewsasia.com/style/face-mask-skin-care-break-out-acne-irritation-tips-1970636,Is that face mask causing your sensitive skin to break out? A doctor's helpful tips,"13 May 2020 06:30AM
+(Updated: 10 Jul 2021 12:54PM)",
+360,CNA,https://www.channelnewsasia.com/singapore/electric-motorcycles-made-in-singapore-expansion-southeast-asia-767691,Electric motorcycles made and designed in Singapore set to rev up Southeast Asia,"11 May 2020 06:18AM
+(Updated: 11 May 2020 06:20AM)",
+361,CNA,https://www.channelnewsasia.com/asia/covid-19-why-saving-our-forests-can-help-stop-next-pandemic-1338881,COVID-19: Why saving our forests can help stop the next pandemic,"09 May 2020 06:26AM
+(Updated: 04 May 2021 02:29PM)",
+362,CNA,https://www.channelnewsasia.com/wellness/how-to-manage-loneliness-1968671,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
+363,CNA,https://www.channelnewsasia.com/experiences/in-an-age-of-social-distancing-the-joys-of-slow-living-1387851,"In an age of social distancing, here's how to appreciate the joys of slow living",25 Mar 2020 06:30AM (Updated: 21 May 2021 11:03AM),
+364,CNA,https://www.channelnewsasia.com/cnainsider/fight-save-bangkok-sinking-watery-depths-floods-climate-change-1338826,The fight to save Bangkok from sinking into watery depths,"19 Mar 2020 06:15AM
+(Updated: 04 May 2021 12:52PM)",
+365,CNA,https://www.channelnewsasia.com/cnainsider/why-jakarta-is-world-fastest-sinking-city-floods-climate-change-781491,Why Jakarta is the fastest sinking city in the world,"28 Feb 2020 06:15AM
+(Updated: 30 Dec 2022 01:41PM)",
+366,CNA,https://www.channelnewsasia.com/style/how-to-get-rid-of-dark-eye-circles-1970856,What causes dark eye circles? And what’s the best way to get rid of these?,"10 Feb 2020 06:30AM
+(Updated: 13 Aug 2021 12:20PM)",
+367,CNA,https://www.channelnewsasia.com/people/malcolm-wood-mott-32-mbs-singapore-1387616,This extreme sports enthusiast/restauranteur can go without food for days,10 Feb 2020 06:30AM (Updated: 21 May 2021 12:40PM),
+368,CNA,https://www.channelnewsasia.com/commentary/wuhan-virus-korea-risks-business-work-from-home-business-plans-786781,Commentary: Allowing employees to work from home can help South Korea manage the Wuhan virus,"25 Jan 2020 11:03AM
+(Updated: 29 Jan 2021 04:33PM)",
+369,CNA,https://www.channelnewsasia.com/singapore/australia-bushfires-singapore-tourism-travel-unaffected-782136,Page Not Found,,"We’re sorry. The page you are looking for appears to have moved or does not exist.
+Check the URL or try using our search function at the top right."
